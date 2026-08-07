@@ -1,0 +1,1 @@
+import{d as o,z as d,A as n,Q as r,ao as s}from"./Bzpb92Ep.js";const t=o({__name:"ACard",props:{padding:{default:"16px"}},setup(e){return(a,l)=>(d(),n("div",{style:r(` padding: ${e.padding} ; border: 1px solid #e5e5e5 ; border-radius: 8px;overflow:hidden`)},[s(a.$slots,"default")],4))}}),p=Object.assign(t,{__name:"EditorElementsElementsCommonACard"});export{p as A};
