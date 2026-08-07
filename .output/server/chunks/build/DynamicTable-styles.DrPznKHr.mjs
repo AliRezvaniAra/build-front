@@ -1,0 +1,2 @@
+const a=[".table-container[data-v-26823796]{overflow-x:auto;width:100%}.custom-dynamic-table[data-v-26823796]{border-collapse:collapse;width:100%}[data-v-26823796] .v-table__wrapper{direction:rtl}.font-weight-bold[data-v-26823796]{color:#333}tbody tr[data-v-26823796]:hover{background-color:#f9f9f9;transition:background-color .2s ease}"];export{a as default};
+//# sourceMappingURL=DynamicTable-styles.DrPznKHr.mjs.map
