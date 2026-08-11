@@ -1,0 +1,2 @@
+import{z as e,$ as r,p as s}from"./server.mjs";import{ref as t,readonly as n}from"vue";const o=s({class:[String,Array,Object],style:{type:[String,Array,Object],default:null}},"component");function useRender(r){e("useRender").render=r}function useResizeObserver(e){const s=r(),o=t();return{resizeRef:s,contentRect:n(o)}}export{useResizeObserver as a,o as m,useRender as u};
+//# sourceMappingURL=resizeObserver-Bors9hmC.mjs.map
