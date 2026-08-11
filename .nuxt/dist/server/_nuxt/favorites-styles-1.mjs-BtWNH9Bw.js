@@ -1,0 +1,5 @@
+const favorites_vue_vue_type_style_index_0_scoped_120a712b_lang = '.shop-page[data-v-120a712b]{background-color:#fcfcfc;min-height:70vh}.product-card[data-v-120a712b]{border:1px solid #f0f0f0!important;transition:all .3s ease}.product-card[data-v-120a712b]:hover{border-color:transparent!important;box-shadow:0 12px 30px #00000014!important;transform:translateY(-8px)}.image-container[data-v-120a712b]{background-color:#f5f5f5;position:relative}.product-image[data-v-120a712b]{transition:transform .6s cubic-bezier(.4,0,.2,1)}.product-card:hover .product-image[data-v-120a712b]{transform:scale(1.08)}.remove-btn[data-v-120a712b]{opacity:0;position:absolute;right:12px;top:12px;transition:opacity .2s ease;z-index:2}.product-card:hover .remove-btn[data-v-120a712b]{opacity:1}.product-label[data-v-120a712b]{bottom:12px;left:12px;letter-spacing:.5px;position:absolute;z-index:1}[style*="direction:rtl"] .remove-btn[data-v-120a712b]{left:12px;right:auto}[style*="direction:rtl"] .product-label[data-v-120a712b]{left:auto;right:12px}';
+export {
+  favorites_vue_vue_type_style_index_0_scoped_120a712b_lang as default
+};
+//# sourceMappingURL=favorites-styles-1.mjs-BtWNH9Bw.js.map

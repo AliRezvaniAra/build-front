@@ -1,0 +1,5 @@
+const favAndbasketIcons_vue_vue_type_style_index_0_scoped_0f8dd7e9_lang = ".fixed-icon[data-v-0f8dd7e9]{background:#fff!important;position:fixed!important;right:24px;transition:all .4s cubic-bezier(.175,.885,.32,1.275)!important;z-index:999}.fav-btn[data-v-0f8dd7e9]{bottom:100px}.basket-btn[data-v-0f8dd7e9],.fav-btn[data-v-0f8dd7e9]:only-of-type{bottom:30px}.fixed-icon[data-v-0f8dd7e9]:hover{transform:scale(1.15) rotate(-5deg)}.basket-btn[data-v-0f8dd7e9]{animation:basket-glow-0f8dd7e9 3s infinite}@keyframes basket-glow-0f8dd7e9{0%{box-shadow:0 0 #1976d266}70%{box-shadow:0 0 0 15px #1976d200}to{box-shadow:0 0 #1976d200}}.fav-btn:hover .v-icon[data-v-0f8dd7e9]{animation:heart-thump-0f8dd7e9 .8s infinite}@keyframes heart-thump-0f8dd7e9{0%,to{transform:scale(1)}50%{transform:scale(1.2)}}";
+export {
+  favAndbasketIcons_vue_vue_type_style_index_0_scoped_0f8dd7e9_lang as default
+};
+//# sourceMappingURL=favAndbasketIcons-styles-1.mjs-Co3G1KwS.js.map
